@@ -24,7 +24,7 @@ custom_js:
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/skarangale/skarangale.github.io/blob/main/python_notebooks/bhagwath-anushri-karangale-srushti-homework10.ipynb" text="The Analysis" %}
 </div>
 
 ### Explanation
@@ -48,7 +48,7 @@ We did not use the colormap function in both our plots here because we didn't fe
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/skarangale/skarangale.github.io/blob/main/python_notebooks/bhagwath-anushri-karangale-srushti-homework10.ipynb" text="The Analysis" %}
 </div>
 
 ### Explanation
